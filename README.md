@@ -1,3 +1,7 @@
-# virtual_exercise_assistant
-
-A new Flutter project.
+![Screenshot_30-5-2025_22105_](https://github.com/user-attachments/assets/1be7f2dc-ff73-408f-8efe-c8a815215a37)
+![Screenshot_30-5-2025_221059_](https://github.com/user-attachments/assets/0beb306c-23c5-45f5-817a-57f4d67e913c)
+![Screenshot_30-5-2025_221018_](https://github.com/user-attachments/assets/91c4a2c2-cae5-4f36-a00f-b188ac94017c)
+![Screenshot_30-5-2025_22142_](https://github.com/user-attachments/assets/81a8326a-6503-498b-b4ea-2575d61a5a65)
+![Screenshot_30-5-2025_221354_](https://github.com/user-attachments/assets/17f5fcc5-7d1c-421e-b535-7034534f2473)
+![Screenshot_30-5-2025_221145_](https://github.com/user-attachments/assets/347691e8-5204-443a-98a4-0efbcbb091ad)
+![Screenshot_30-5-2025_221129_](https://github.com/user-attachments/assets/ad437dea-1ad9-454d-be6d-18c9ca590451)

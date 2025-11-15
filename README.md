@@ -1,4 +1,4 @@
-![Screenshot](images/img 1.png)
+![Screenshot](images/img 1.jpeg)
 ![Screenshot](images/img 1.png)
 ![Screenshot](images/img 1.png)
 ![Screenshot](images/img 1.png)

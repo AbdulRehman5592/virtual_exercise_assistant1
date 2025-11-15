@@ -1,4 +1,4 @@
-![Screenshot](images/img 1.jpeg)
+![[Screenshot](images/img 1.jpeg)](https://github.com/AbdulRehman5592/virtual_exercise_assistant1/blob/master/images/img%201.jpeg)
 ![Screenshot](images/img 1.png)
 ![Screenshot](images/img 1.png)
 ![Screenshot](images/img 1.png)
